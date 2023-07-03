@@ -9,3 +9,7 @@ out/
 
 # Dotenv file
 .env
+.certora_internal
+.vscode
+.certora_recent_jobs.json
+.zip-output-url.txt
